@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^6.2.3",
+    "firebase": "^10.9.0",
     "firebase-admin": "^8.2.0",
     "firestore-parser": "^0.8.9",
     "mdbreact": "4.17.0",
